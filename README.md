@@ -1,4 +1,4 @@
-# music-player-Node.js-
+# music-player-Node.js
 # 模块化开发(Node.js)
 这是一个模拟音乐信息的后台管理项目
 # app.js
